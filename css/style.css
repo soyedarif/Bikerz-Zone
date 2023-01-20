@@ -1,0 +1,41 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* nav-bar-style  */
+.nav-bg{
+    background: #264653;
+}
+.btn-login{
+    background: #E76F51;
+}
+/* hero section */
+.hero{
+    background: #264653;
+
+}
+.text-theme-color{
+    color: #E76F51;
+}
+.btn-theme:link,.btn-theme:visited{
+    background-color: #E76F51;
+    color: #fff;
+}
+.btn-theme-2:link,.btn-theme-2:visited{
+    background-color: none;
+    color: #E76F51;
+    outline:1px solid #E76F51;
+}
+.margin-botton{
+    margin-bottom: 6.25rem;
+}
+.footer{
+    background-color: #0B0D17;
+    color: #fff;  
+    
+}
+.footer-list li{
+    margin-right: 2rem;
+}
